@@ -1,0 +1,5 @@
+= HypermediaSerializers
+
+Extends the Rails API ActiveModel Serializers gem to add hypermedia support (links to other resources) to ActiveModel Serializers
+  
+In progress
